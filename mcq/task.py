@@ -1,7 +1,7 @@
-"""a=[1,2,3]
+a=[1,2,3]
 b=a
 b.append(4)
-print(a)"""
+print(a)
 """a=[10,20]
 b=a.copy()
 b+=[30,40]
