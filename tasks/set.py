@@ -1,0 +1,20 @@
+s1={11,12,13,14,15,16,17,19}
+s2={11,12,13,17}
+# print(s1.union(s2))
+# print(s1.intersection(s2))
+# print(s1.difference(s2))
+# print(s1.symmetric_difference(s2))
+# print(s1.isdisjoint(s2))
+# print(s1.issubset(s2))
+# print(s1.issuperset(s2))
+# s2="my name is raju"
+# print(type(s1))
+# print(len(s1))
+# s2=list(s1)
+# s2.append(50)
+# s1.remove(12)
+# print(min(s1))
+# print(max(s1))
+# print(len(s1))
+# s1.add(57)
+# print(s1)

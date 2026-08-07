@@ -1,0 +1,71 @@
+name = "raju jaysingh bhadauriya"
+# print(name[0])
+# print(name[5])
+# print(name[14:])
+# print(name[0])
+# print(name[-2])
+# print(name[::1])
+# print(name[::-2])
+# print(name[::-1])
+
+# print(name.upper())
+# print(name.title())
+# print(name.swapcase())
+# print(len(name))
+# print(name.rindex("a"))
+# print(name.rindex(" "))
+# print(name.find(" "))
+# name = "raju jaysingh bhadauriya"
+# print(name.replace("bhadauriya","rajput"))
+# print(name.replace(" ","-",2))
+# print(name.split("a"))
+# print(name.partition("jay"))
+# print(name[0],name[5],name[14:])
+# print(name.replace(" ","."))
+
+## task - 2
+a = "color"                   
+b = "full"
+# print(b[:3],end="")
+# print(a[3:])
+# print(a[:3],end="")
+# print(b[-1])
+## task - 3
+# a="restart"
+# r=0
+# print(a.replace("r","@"))
+
+## task-4
+# name = "my Name is manthan patel."
+# print(name.replace(" ","_"))
+
+
+# l1=["maam","php","java","c++","python"]
+# l2=["php","123"]
+# for i in l1:
+#     if i not in l2:
+#         l2.append(i)
+        
+# print(l2)
+# s1= "raju jaysingh bhadauriya"
+# print(s1[0]+"_",s1[5]+".",s1[14:]+"*")
+# name=input("enter ur first name :")
+# surname=input("enter ur surname :")
+# print(name[0:3]+"."+surname[6:])
+# *****************************************************out put - my_name is manthan_patel.****
+
+"""s1="my name is manthan patel."
+result=s1.replace(" ","_",1)
+s2=result[::-1].replace(" ","_",1)[::-1]
+print(s2)"""
+# *************************************
+# s1="my name is manthan patel."
+# vowel="aeiouAEIOU"
+# count=0
+# for i in s1:
+#     if i in vowel:
+#         count+=1
+#         print(count)
+    
+
+
